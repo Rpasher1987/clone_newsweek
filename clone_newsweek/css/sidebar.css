@@ -1,0 +1,36 @@
+#sidebullets {
+  font-size: x-large;
+  color: black;
+  font-weight: bold;
+  list-style: square;
+  list-style-position: inside;
+}
+.img-responsive {
+  width: 100%;
+}
+
+h1, h5, span {
+  color:black;
+}
+
+.border-special1 {
+  border-top: 3px solid #dee2e6;
+}
+
+.border-special2 {
+  border-bottom: 3px solid #dee2e6;
+}
+#latestheadlines {
+  border-style: outset;
+  border-color: darkgray;
+  border-radius: 0%;
+  border-width: 2pt;
+  width: 70%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  box-shadow:rgba(27, 23, 23, 0.911);
+  box-sizing: content-box;
+}
+#sidemenu > header {
+  text-align: left;
+}
